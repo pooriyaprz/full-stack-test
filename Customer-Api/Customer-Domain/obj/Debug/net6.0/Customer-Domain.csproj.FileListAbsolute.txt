@@ -1,0 +1,12 @@
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\bin\Debug\net6.0\Customer-Domain.deps.json
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\bin\Debug\net6.0\Customer-Domain.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\bin\Debug\net6.0\ref\Customer-Domain.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\bin\Debug\net6.0\Customer-Domain.pdb
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.AssemblyInfoInputs.cache
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.AssemblyInfo.cs
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.csproj.CoreCompileInputs.cache
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\ref\Customer-Domain.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.pdb
+D:\Projects\full-stack-test\Customer-Api\Customer-Domain\obj\Debug\net6.0\Customer-Domain.csproj.AssemblyReference.cache

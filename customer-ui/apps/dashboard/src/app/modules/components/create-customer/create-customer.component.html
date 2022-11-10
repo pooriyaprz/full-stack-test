@@ -1,0 +1,42 @@
+<div fxLayout="column" fxLayoutAlign="center center">
+  <form [formGroup]="form">
+    <mat-card class="example-card">
+      <mat-card-title *ngIf="!customerDetail">Create Customer</mat-card-title>
+      <mat-card-title *ngIf="customerDetail">Edite Customer</mat-card-title>
+      <mat-card-content>
+        <mat-form-field class="example-form-field" appearance="fill">
+          <mat-label>Name</mat-label>
+          <input matInput formControlName="name" placeholder="name" />
+          <mat-error *ngIf="form.hasError('required')">
+            Name is <strong>required</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="example-form-field" appearance="fill">
+          <mat-label>Email</mat-label>
+          <input matInput formControlName="email" placeholder="email" />
+          <mat-error *ngIf="form.hasError('required')">
+            Email is <strong>required</strong>
+          </mat-error>
+        </mat-form-field>
+      </mat-card-content>
+      <mat-card-actions>
+        <button
+          mat-button
+          class="btn"
+          *ngIf="!customerDetail"
+          (click)="create(form.value)"
+        >
+          Create
+        </button>
+        <button
+          mat-button
+          class="btn"
+          *ngIf="customerDetail"
+          (click)="edite(form.value)"
+        >
+          Edite
+        </button>
+      </mat-card-actions>
+    </mat-card>
+  </form>
+</div>

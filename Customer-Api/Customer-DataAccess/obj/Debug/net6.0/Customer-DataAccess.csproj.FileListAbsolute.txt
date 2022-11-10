@@ -1,0 +1,17 @@
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\Customer-DataAccess.deps.json
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\Customer-DataAccess.runtimeconfig.json
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\Customer-DataAccess.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\ref\Customer-DataAccess.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\Customer-DataAccess.pdb
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\Customer-Domain.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\bin\Debug\net6.0\Customer-Domain.pdb
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.csproj.AssemblyReference.cache
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.AssemblyInfoInputs.cache
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.AssemblyInfo.cs
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.csproj.CopyComplete
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\ref\Customer-DataAccess.dll
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.pdb
+D:\Projects\full-stack-test\Customer-Api\Customer-DataAccess\obj\Debug\net6.0\Customer-DataAccess.genruntimeconfig.cache

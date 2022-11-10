@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CcIsFPtGZT0LzCoZgZxKTEeY/YFNoO6Ddhg3wpT9TNw+YwGagzPcGj0z5AlnRTnsFisiT2bhqeLPiJtvvf4oIw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\full-stack-test\\Customer-Api\\Customer-Domain\\Customer-Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pouria\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\pouria\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
